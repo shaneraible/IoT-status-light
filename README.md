@@ -11,3 +11,6 @@ Skills used:
 Skills gained:
 - ESP8266 networking
 - Swift/iOS app dev
+
+# demo
+![IoT Status Light Demo](/statuslight.gif)
