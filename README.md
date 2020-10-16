@@ -13,4 +13,4 @@ Skills gained:
 - Swift/iOS app dev
 
 # demo
-![IoT Status Light Demo](/statuslight.gif)
+<img width="200" alt="portfolio_view" src="/statuslight.gif">
